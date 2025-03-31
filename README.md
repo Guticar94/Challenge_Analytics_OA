@@ -9,7 +9,7 @@ Challenge técnico - Analista Sr. de Operaciones &amp; Analytics
 ### 1. Clonar el repositorio y moverse a la carpeta del repositorio
 ```bash
 git clone https://github.com/Guticar94/Challenge_Analytics_OA.git
-cd ../Challenge_Analytics_OA
+cd Challenge_Analytics_OA
 ```
 
 ### 2. Crear y activar un entorno virtual
